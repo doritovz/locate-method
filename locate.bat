@@ -20,7 +20,7 @@ if NOT EXIST targets.txt (
 )
 
 :: Main
-ECHO Tip: Best generate minimum 
+ECHO Tip: Best generate minimum 50! - 75% links
 set /p num=How many targets would you like to locate?: 
 ECHO Locating targets...
 ECHO Selected # of Targets: %num%
