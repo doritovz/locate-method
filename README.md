@@ -1,7 +1,10 @@
 ## Locate Method
+**WARNING**
+Some links may not work due to the User ID being invalid, the IDS are randomly generated and sometimes don't work. Batch has limitations making it nearly impossible to do something like create a filter / checker.<br>
+
 <p>Batch file that generates Rolimons links to possible targets.
-Very little code but it still functions as intended.
-Some links may not work due to the User ID being invalid, the IDS are randomly generated and sometimes don't work.</p>
+Didn't put much effort into this but it still functions as I intended to.
+</p>
 
 ### HOW TO USE
 <p>Step 1: Open the batch file and enter the # of targets you desire. Minimum <b>50 - 75</b> targets</p>
